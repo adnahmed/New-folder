@@ -1,0 +1,5 @@
+PAYROLL_ID,Staff Id,Manual ID,First Name,Last Name,Father Name,GrandFather Name,Email,Identity type,Identity Number,Phone Number,Country,State,City,Account Title,Account No,Bank Name,Mode Of Payment,Amount,From Bank,Transaction Id,Receipt Image,Payment Status
+122,51, null*,Sana,Ahmed,Nadeem,Hussain,flw1@test.com,National Identity,4271905195*,93777438826*,Afghanistan,-,-,Sana Ahmed, 8.82954E+11*,AIB,Bank Transfer,220,Afghanistan International Bank,123455*,,processed
+120,53, null*,Zaid,Sheikh,Abdullah,Suleman,flw3@test.com,National Identity,5292148882*,93725854994*,Afghanistan,-,-,Zaid Sheikh, 2.28707E+11*,AIB,Bank Transfer,190,-,4556,-,processed
+116,57, null*,Zaid,Hussain,Bilal,Muhammad,flw7@test.com,National Identity,1211360614*,93781967424*,Afghanistan,-,-,Zaid Hussain, 5.4812E+11*,AIB,Bank Transfer,225,-,5555,-,processed
+114,59, null*,Nida,Sheikh,Abdullah,Khalid,flw9@test.com,National Identity,4955167802*,93734365262*,Afghanistan,-,-,Nida Sheikh, 1.57671E+11*,AIB,Bank Transfer,240,-,5556,-,processed
